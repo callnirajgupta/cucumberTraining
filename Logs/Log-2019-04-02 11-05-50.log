@@ -1,0 +1,46 @@
+2019-04-02 23:05:50 INFO  CommonUtil:42 - ############  INSIDE LOGIN ########################
+2019-04-02 23:05:56 INFO  SeleniumUtil:291 -  print the sysc time 10
+2019-04-02 23:06:03 INFO  SeleniumUtil:353 - Inside ValidateWebElementPresence method
+2019-04-02 23:06:03 INFO  SeleniumUtil:365 - #########Element is present: By.className: login
+2019-04-02 23:06:03 INFO  HomePage_PO:18 - ########### Inside clickSignIn_HomePage ###########
+2019-04-02 23:06:03 INFO  SeleniumUtil:371 - Inside ValidateWebElementPresence method
+2019-04-02 23:06:03 INFO  SeleniumUtil:375 - ######### Element is visible: By.className: login
+2019-04-02 23:06:03 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 23:06:06 INFO  SeleniumUtil:353 - Inside ValidateWebElementPresence method
+2019-04-02 23:06:06 INFO  SeleniumUtil:365 - #########Element is present: By.cssSelector: input#email
+2019-04-02 23:06:06 INFO  Login_PO:19 - ############# inside Login_PO method ###################
+2019-04-02 23:06:06 INFO  SeleniumUtil:353 - Inside ValidateWebElementPresence method
+2019-04-02 23:06:06 INFO  SeleniumUtil:365 - #########Element is present: By.cssSelector: input#email
+2019-04-02 23:06:06 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 23:06:07 INFO  SeleniumUtil:353 - Inside ValidateWebElementPresence method
+2019-04-02 23:06:07 INFO  SeleniumUtil:365 - #########Element is present: By.cssSelector: input[id=passwd]
+2019-04-02 23:06:07 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 23:06:07 INFO  SeleniumUtil:371 - Inside ValidateWebElementPresence method
+2019-04-02 23:06:07 INFO  SeleniumUtil:375 - ######### Element is visible: By.id: SubmitLogin
+2019-04-02 23:06:07 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 23:06:11 INFO  SeleniumUtil:267 - ############################# Inside CloseBrowser #############################
+2019-04-02 23:06:11 DEBUG SeleniumUtil:270 - ###################   Closed Browser #############################
+2019-04-02 23:06:11 INFO  CommonUtil:42 - ############  INSIDE LOGIN ########################
+2019-04-02 23:06:15 INFO  SeleniumUtil:291 -  print the sysc time 10
+2019-04-02 23:06:21 INFO  SeleniumUtil:353 - Inside ValidateWebElementPresence method
+2019-04-02 23:06:21 INFO  SeleniumUtil:365 - #########Element is present: By.className: login
+2019-04-02 23:06:21 INFO  HomePage_PO:18 - ########### Inside clickSignIn_HomePage ###########
+2019-04-02 23:06:21 INFO  SeleniumUtil:371 - Inside ValidateWebElementPresence method
+2019-04-02 23:06:21 INFO  SeleniumUtil:375 - ######### Element is visible: By.className: login
+2019-04-02 23:06:21 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 23:06:24 INFO  SeleniumUtil:353 - Inside ValidateWebElementPresence method
+2019-04-02 23:06:24 INFO  SeleniumUtil:365 - #########Element is present: By.cssSelector: input#email
+2019-04-02 23:06:24 INFO  Login_PO:19 - ############# inside Login_PO method ###################
+2019-04-02 23:06:24 INFO  SeleniumUtil:353 - Inside ValidateWebElementPresence method
+2019-04-02 23:06:24 INFO  SeleniumUtil:365 - #########Element is present: By.cssSelector: input#email
+2019-04-02 23:06:24 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 23:06:24 INFO  SeleniumUtil:353 - Inside ValidateWebElementPresence method
+2019-04-02 23:06:24 INFO  SeleniumUtil:365 - #########Element is present: By.cssSelector: input[id=passwd]
+2019-04-02 23:06:24 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 23:06:24 INFO  SeleniumUtil:371 - Inside ValidateWebElementPresence method
+2019-04-02 23:06:24 INFO  SeleniumUtil:375 - ######### Element is visible: By.id: SubmitLogin
+2019-04-02 23:06:24 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 23:06:29 INFO  WelcomePage_PO:19 - ######  Inside clickSignOut ##############
+2019-04-02 23:06:29 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 23:06:31 INFO  SeleniumUtil:267 - ############################# Inside CloseBrowser #############################
+2019-04-02 23:06:34 DEBUG SeleniumUtil:270 - ###################   Closed Browser #############################

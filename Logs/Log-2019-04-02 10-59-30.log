@@ -1,0 +1,22 @@
+2019-04-02 22:59:31 INFO  CommonUtil:42 - ############  INSIDE LOGIN ########################
+2019-04-02 22:59:35 INFO  SeleniumUtil:291 -  print the sysc time 10
+2019-04-02 22:59:42 INFO  SeleniumUtil:353 - Inside ValidateWebElementPresence method
+2019-04-02 22:59:42 INFO  SeleniumUtil:365 - #########Element is present: By.className: login
+2019-04-02 22:59:42 INFO  HomePage_PO:18 - ########### Inside clickSignIn_HomePage ###########
+2019-04-02 22:59:42 INFO  SeleniumUtil:371 - Inside ValidateWebElementPresence method
+2019-04-02 22:59:42 INFO  SeleniumUtil:375 - ######### Element is visible: By.className: login
+2019-04-02 22:59:42 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 22:59:45 INFO  SeleniumUtil:353 - Inside ValidateWebElementPresence method
+2019-04-02 22:59:46 INFO  SeleniumUtil:365 - #########Element is present: By.cssSelector: input#email
+2019-04-02 22:59:46 INFO  Login_PO:19 - ############# inside Login_PO method ###################
+2019-04-02 22:59:46 INFO  SeleniumUtil:353 - Inside ValidateWebElementPresence method
+2019-04-02 22:59:46 INFO  SeleniumUtil:365 - #########Element is present: By.cssSelector: input#email
+2019-04-02 22:59:46 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 22:59:46 INFO  SeleniumUtil:353 - Inside ValidateWebElementPresence method
+2019-04-02 22:59:46 INFO  SeleniumUtil:365 - #########Element is present: By.cssSelector: input[id=passwd]
+2019-04-02 22:59:46 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 22:59:46 INFO  SeleniumUtil:371 - Inside ValidateWebElementPresence method
+2019-04-02 22:59:46 INFO  SeleniumUtil:375 - ######### Element is visible: By.id: SubmitLogin
+2019-04-02 22:59:46 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 22:59:51 INFO  SeleniumUtil:267 - ############################# Inside CloseBrowser #############################
+2019-04-02 22:59:51 DEBUG SeleniumUtil:270 - ###################   Closed Browser #############################

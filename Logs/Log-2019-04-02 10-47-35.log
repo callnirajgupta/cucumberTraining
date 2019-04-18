@@ -1,0 +1,24 @@
+2019-04-02 22:47:35 INFO  CommonUtil:42 - ############  INSIDE LOGIN ########################
+2019-04-02 22:47:41 INFO  SeleniumUtil:291 -  print the sysc time 10
+2019-04-02 22:47:48 INFO  SeleniumUtil:353 - Inside ValidateWebElementPresence method
+2019-04-02 22:47:48 INFO  SeleniumUtil:365 - #########Element is present: By.className: login
+2019-04-02 22:47:48 INFO  HomePage_PO:18 - ########### Inside clickSignIn_HomePage ###########
+2019-04-02 22:47:48 INFO  SeleniumUtil:371 - Inside ValidateWebElementPresence method
+2019-04-02 22:47:48 INFO  SeleniumUtil:375 - ######### Element is visible: By.className: login
+2019-04-02 22:47:48 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 22:47:51 INFO  SeleniumUtil:353 - Inside ValidateWebElementPresence method
+2019-04-02 22:47:51 INFO  SeleniumUtil:365 - #########Element is present: By.cssSelector: input#email
+2019-04-02 22:47:51 INFO  Login_PO:19 - ############# inside Login_PO method ###################
+2019-04-02 22:47:51 INFO  SeleniumUtil:353 - Inside ValidateWebElementPresence method
+2019-04-02 22:47:51 INFO  SeleniumUtil:365 - #########Element is present: By.cssSelector: input#email
+2019-04-02 22:47:51 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 22:47:51 INFO  SeleniumUtil:353 - Inside ValidateWebElementPresence method
+2019-04-02 22:47:51 INFO  SeleniumUtil:365 - #########Element is present: By.cssSelector: input[id=passwd]
+2019-04-02 22:47:51 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 22:47:51 INFO  SeleniumUtil:371 - Inside ValidateWebElementPresence method
+2019-04-02 22:47:51 INFO  SeleniumUtil:375 - ######### Element is visible: By.id: SubmitLogin
+2019-04-02 22:47:51 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 22:47:56 INFO  WelcomePage_PO:19 - ######  Inside clickSignOut ##############
+2019-04-02 22:47:56 DEBUG SeleniumUtil:212 - inside getWebElement
+2019-04-02 22:47:59 INFO  SeleniumUtil:267 - ############################# Inside CloseBrowser #############################
+2019-04-02 22:47:59 DEBUG SeleniumUtil:270 - ###################   Closed Browser #############################
